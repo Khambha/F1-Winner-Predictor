@@ -1,0 +1,15 @@
+file,rows,columns,missing,duplicates,memory_mb
+audit_summary.csv,12,6,0,0,0.0
+circuits.csv,78,9,0,0,0.03
+column_audit_report.csv,105,6,0,0,0.02
+constructor_results.csv,12920,5,0,0,1.02
+constructor_standings.csv,13686,7,0,0,1.83
+constructors.csv,214,5,0,0,0.06
+driver_standings.csv,35471,7,0,0,4.78
+drivers.csv,865,9,0,0,0.4
+qualifying.csv,11080,9,0,0,2.24
+qualifying_2008_2026.csv,7706,7,0,0,2.52
+races.csv,1171,18,0,0,0.93
+results.csv,27348,18,0,0,15.09
+results_2008_2026.csv,7733,9,0,0,2.58
+status.csv,140,2,0,0,0.01
